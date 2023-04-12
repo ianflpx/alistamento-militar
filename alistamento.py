@@ -18,6 +18,7 @@ app.title("Alistamento militar")
 app.geometry("300x300")
 app.minsize(300, 300)
 app.maxsize(300, 300)
+ian = 200
 
 titulo_alistamento = Label(app, font="Arial 15", text="ALISTAMENTO")
 titulo_alistamento.place(x=80, y=25)
